@@ -7,4 +7,4 @@ Building guide:
 3. For building the program run "anchor build" in the cli;
 4. For running and testing the program run "anchor test" in the cli;
 5. For deploying the program run "anchor deploy" (solana-test-validator must be running and your local keypair must have funds);
-6. After deploying will be created final_project.idl that can be used in frontend apps.
+6. final_project.idl will be created after deploying that can be used in frontend apps.
